@@ -1,2 +1,2 @@
 # ITELEC1C
-full of work 
+repo for ITELEC1C
